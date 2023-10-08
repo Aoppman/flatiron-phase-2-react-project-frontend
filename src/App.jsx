@@ -11,6 +11,7 @@ import Header from './components/Header'
 // main component
 import Main from './components/Main'
 // footer component
+import Footer from './components/Footer'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
     <>
     <Header />
     <Main />
+    <Footer />
     </>
   )
 }

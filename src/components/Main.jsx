@@ -2,22 +2,11 @@ import React from "react";
 
 function Main() {
   <>
-    <header>
+   <main>
       <h1>My App</h1>
-      <nav>
-        <ul>
-          <li>
-            <a href="#some-id-1">Some Link Title</a>
-          </li>
-          <li>
-            <a href="#some-id-2">Some Link Title</a>
-          </li>
-          <li>
-            <a href="#some-id-3">Some Link Title</a>
-          </li>
-        </ul>
-      </nav>
-    </header>
+      <h2>The main content of our application</h2>
+      <p>Some text</p>
+    </main>
   </>;
 }
 
