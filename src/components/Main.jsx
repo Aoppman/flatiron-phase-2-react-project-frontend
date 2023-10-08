@@ -1,6 +1,6 @@
 import React from "react";
 
-function Header() {
+function Main() {
   <>
     <header>
       <h1>My App</h1>
@@ -21,4 +21,4 @@ function Header() {
   </>;
 }
 
-export default Header;
+export default Main;
